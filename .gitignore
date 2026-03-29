@@ -27,3 +27,19 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# IntelliJ (faltando no seu)
+.idea/
+*.iml
+
+# Dependências
+*.jar
+
+# Build comum Java
+target/
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
